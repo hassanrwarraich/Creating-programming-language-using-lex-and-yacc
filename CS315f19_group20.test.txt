@@ -1,0 +1,64 @@
+int funct(int alpha, string beta){
+if (alpha > 5){
+alpha = 3+5*4
+}
+return aplha
+}
+// just commenting  ...  //
+int intig = 5
+string stri = "hello"
+string stri2
+stri2 = "hi"
+float flo = 1.5
+CONST float flo2 = 1.0
+flo2 = 1.7
+int intig2
+intig2 = 7
+if (intig >= intig2){
+for(int i = 0; i > 5; i = i + 1){
+print(i)
+print("how are you?")
+}
+}
+inti2 = 3.5
+stri2 = "ho"
+CONST bool tf = true
+bool tf2 
+tf2= FALSE
+while(flo < 5){
+flo = flo*2
+}
+if (flo2*5 != 65){
+if(flo*2>10 && flo2<8){
+funct(intig, stri)
+funct(5, "what")
+}else{
+int a
+int b
+c = "skdjlfsakdjf"
+}
+intig = intig - 5
+int random = 50
+random=intig+random
+
+
+//   another funtiondec  !!!! //
+void funct2(){
+}  
+int temp = TEMPERATURE
+int humidity = HUMIDITY
+if (temp == humidity){
+sw10[TRUE]
+sw3[FALSE]
+sw2[TRUE]
+}
+url = www.hahaha.com
+connect url
+string recieving
+"hello" send url
+recieving receive url
+
+connect www.nayaPakistan.com
+"Tabdeli" send www.nayaPakistan.com
+
+recieving receive www.nayaPakistan.com
